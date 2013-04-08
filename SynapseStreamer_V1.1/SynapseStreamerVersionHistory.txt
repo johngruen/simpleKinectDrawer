@@ -1,0 +1,9 @@
+SynapseStreamer Version History
+
+Version 1.0
+Release January 11th 2013
+
+Version 1.1
+Release January 30th 2013
+Bug Fixes:
+- Fixed leftElbow and rightElbow mixup in parseIncomingMessages (thanks to Sneha Kamath and Anette von Kapri for pointing this out)
